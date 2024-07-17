@@ -1,0 +1,14 @@
+/Users/aliberkayberber/Documents/Pratikler/DegiskenlerVeConsole/bin/Debug/net8.0/DegiskenlerVeConsole
+/Users/aliberkayberber/Documents/Pratikler/DegiskenlerVeConsole/bin/Debug/net8.0/DegiskenlerVeConsole.deps.json
+/Users/aliberkayberber/Documents/Pratikler/DegiskenlerVeConsole/bin/Debug/net8.0/DegiskenlerVeConsole.runtimeconfig.json
+/Users/aliberkayberber/Documents/Pratikler/DegiskenlerVeConsole/bin/Debug/net8.0/DegiskenlerVeConsole.dll
+/Users/aliberkayberber/Documents/Pratikler/DegiskenlerVeConsole/bin/Debug/net8.0/DegiskenlerVeConsole.pdb
+/Users/aliberkayberber/Documents/Pratikler/DegiskenlerVeConsole/obj/Debug/net8.0/DegiskenlerVeConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliberkayberber/Documents/Pratikler/DegiskenlerVeConsole/obj/Debug/net8.0/DegiskenlerVeConsole.AssemblyInfoInputs.cache
+/Users/aliberkayberber/Documents/Pratikler/DegiskenlerVeConsole/obj/Debug/net8.0/DegiskenlerVeConsole.AssemblyInfo.cs
+/Users/aliberkayberber/Documents/Pratikler/DegiskenlerVeConsole/obj/Debug/net8.0/DegiskenlerVeConsole.csproj.CoreCompileInputs.cache
+/Users/aliberkayberber/Documents/Pratikler/DegiskenlerVeConsole/obj/Debug/net8.0/DegiskenlerVeConsole.dll
+/Users/aliberkayberber/Documents/Pratikler/DegiskenlerVeConsole/obj/Debug/net8.0/refint/DegiskenlerVeConsole.dll
+/Users/aliberkayberber/Documents/Pratikler/DegiskenlerVeConsole/obj/Debug/net8.0/DegiskenlerVeConsole.pdb
+/Users/aliberkayberber/Documents/Pratikler/DegiskenlerVeConsole/obj/Debug/net8.0/DegiskenlerVeConsole.genruntimeconfig.cache
+/Users/aliberkayberber/Documents/Pratikler/DegiskenlerVeConsole/obj/Debug/net8.0/ref/DegiskenlerVeConsole.dll
