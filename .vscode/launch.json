@@ -14,7 +14,7 @@
             "args": [],
             "cwd": "${workspaceFolder}",
             // 'Konsol' alanı hakkında daha fazla bilgi için bkz. https://aka.ms/VSCode-CS-LaunchJson-Console
-            "console": "integratedTerminal",
+            "console": "externalTerminal", //"integratedTerminal"
             "stopAtEntry": false
         },
         {

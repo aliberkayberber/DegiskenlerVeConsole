@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DegiskenlerVeConsole")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1514ab07db9e4e90db4e17beee19bd9d45b57a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("DegiskenlerVeConsole")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DegiskenlerVeConsole")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

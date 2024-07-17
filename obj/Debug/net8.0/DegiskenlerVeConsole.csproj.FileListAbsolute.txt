@@ -12,3 +12,4 @@
 /Users/aliberkayberber/Documents/Pratikler/DegiskenlerVeConsole/obj/Debug/net8.0/DegiskenlerVeConsole.pdb
 /Users/aliberkayberber/Documents/Pratikler/DegiskenlerVeConsole/obj/Debug/net8.0/DegiskenlerVeConsole.genruntimeconfig.cache
 /Users/aliberkayberber/Documents/Pratikler/DegiskenlerVeConsole/obj/Debug/net8.0/ref/DegiskenlerVeConsole.dll
+/Users/aliberkayberber/Documents/Pratikler/DegiskenlerVeConsole/obj/Debug/net8.0/DegiskenlerVeConsole.sourcelink.json

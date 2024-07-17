@@ -30,7 +30,7 @@ namespace DegiskenlerVeConsole
             System.Console.WriteLine("----------------------------------------------------");
             System.Console.WriteLine(tcString + " Tc numarali " + name + " " + surname + " isimli kisi icin kayıt olusturulmustur.");
             System.Console.WriteLine($"{phoneString} telefon numarasina bildirim mesaji gönderilmistir.");
-            System.Console.WriteLine($"{firstPriceDecimal + secondPriceDecimal} toplam harcama karsiligi kazanilan % 10 patika puan miktari -> {(firstPriceDecimal + secondPriceDecimal) / 10} TL'dir.35");
+            System.Console.WriteLine($"{firstPriceDecimal + secondPriceDecimal} toplam harcama karsiligi kazanilan % 10 patika puan miktari -> {(firstPriceDecimal + secondPriceDecimal) / 10} TL'dir.");
 
             
 
