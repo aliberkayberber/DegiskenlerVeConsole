@@ -1,1 +1,1 @@
-# Degiskenler ve Konsol uygulamalrı pratiğidir.
+# Degiskenler ve Konsol uygulamaları pratiğidir.
